@@ -1,0 +1,146 @@
+[
+  {
+    "name": "BILLY Bookcase",
+    "description": "A classic bookcase with adjustable shelves.",
+    "price": 1299000,
+    "stock": 15,
+    "imgUrl": "https://i.pinimg.com/736x/85/c6/05/85c605d4147568376c73edb10c204ed7.jpg",
+    "categoryId": 3,
+    "authorId": 1
+  },
+  {
+    "name": "MALM Bed Frame",
+    "description": "A minimalist bed frame with storage drawers.",
+    "price": 4999000,
+    "stock": 10,
+    "imgUrl": "https://i.pinimg.com/736x/20/76/a0/2076a00863d3de8a820d91d42c6901fd.jpg",
+    "categoryId": 1,
+    "authorId": 2
+  },
+  {
+    "name": "POÄNG Armchair",
+    "description": "A comfortable armchair with a soft cushion.",
+    "price": 1899000,
+    "stock": 20,
+    "imgUrl": "https://i.pinimg.com/736x/4d/53/7a/4d537a159d5ecb5c48e9ab057c66fb3f.jpg",
+    "categoryId": 1,
+    "authorId": 3
+  },
+  {
+    "name": "HEKTAR Floor Lamp",
+    "description": "An industrial-style floor lamp with adjustable head.",
+    "price": 999000,
+    "stock": 25,
+    "imgUrl": "https://i.pinimg.com/736x/c6/5f/a6/c65fa6575f502439c6561fe6d4426060.jpg",
+    "categoryId": 2,
+    "authorId": 2
+  },
+  {
+    "name": "RÅSKOG Utility Cart",
+    "description": "A versatile cart that fits in any space.",
+    "price": 799000,
+    "stock": 30,
+    "imgUrl": "https://i.pinimg.com/736x/b3/88/30/b3883072358ee1473c22e85050c68b7d.jpg",
+    "categoryId": 3,
+    "authorId": 2
+  },
+  {
+    "name": "LENDA Curtains",
+    "description": "A set of light-filtering curtains with a simple design.",
+    "price": 599000,
+    "stock": 40,
+    "imgUrl": "https://i.pinimg.com/736x/4c/e7/a5/4ce7a572ff48c0772205c3c402d213c8.jpg",
+    "categoryId": 4,
+    "authorId": 3
+  },
+  {
+    "name": "FÄRGRIK Dinnerware Set",
+    "description": "A basic and durable dinnerware set for everyday use.",
+    "price": 299000,
+    "stock": 50,
+    "imgUrl": "https://i.pinimg.com/736x/65/25/e6/6525e6a6335579fb4e4cd58907b093bd.jpg",
+    "categoryId": 5,
+    "authorId": 3
+  },
+  {
+    "name": "MARKUS Office Chair",
+    "description": "A high-back office chair with ergonomic support.",
+    "price": 2299000,
+    "stock": 12,
+    "imgUrl": "https://i.pinimg.com/736x/1b/d9/2b/1bd92b8d829780e8df1acdc604f385a4.jpg",
+    "categoryId": 6,
+    "authorId": 2
+  },
+  {
+    "name": "BEKANT Desk",
+    "description": "An adjustable standing desk for a healthy workspace.",
+    "price": 3499000,
+    "stock": 8,
+    "imgUrl": "https://i.pinimg.com/736x/e3/1a/ab/e31aab210306178127b5a5311cdacc88.jpg",
+    "categoryId": 6,
+    "authorId": 3
+  },
+  {
+    "name": "TÄRNÖ Folding Chair",
+    "description": "A wooden outdoor folding chair with metal frame.",
+    "price": 499000,
+    "stock": 20,
+    "imgUrl": "https://i.pinimg.com/736x/6a/6c/80/6a6c80adac7411a649bb070d187beba3.jpg",
+    "categoryId": 7,
+    "authorId": 1
+  },
+  {
+    "name": "GRÖNÖ Table Lamp",
+    "description": "A simple and elegant table lamp for a cozy ambiance.",
+    "price": 199000,
+    "stock": 35,
+    "imgUrl": "https://i.pinimg.com/736x/1f/a5/11/1fa511f12425f5eca66a2890c3eb3de6.jpg",
+    "categoryId": 2,
+    "authorId": 2
+  },
+  {
+    "name": "TROFAST Storage Unit",
+    "description": "A modular storage unit with removable bins.",
+    "price": 1199000,
+    "stock": 18,
+    "imgUrl": "https://i.pinimg.com/736x/68/dc/e1/68dce19e784d1e747c90d5bf63204a2d.jpg",
+    "categoryId": 3,
+    "authorId": 3
+  },
+  {
+    "name": "GURLI Cushion Cover",
+    "description": "A soft and stylish cushion cover for any sofa.",
+    "price": 99000,
+    "stock": 60,
+    "imgUrl": "https://i.pinimg.com/736x/4a/35/71/4a3571e376d9e5f67c2d1e5b7f8acf5c.jpg",
+    "categoryId": 4,
+    "authorId": 2
+  },
+  {
+    "name": "HÄLLBAR Recycling Bin",
+    "description": "A smart and space-saving recycling bin.",
+    "price": 149000,
+    "stock": 45,
+    "imgUrl": "https://i.pinimg.com/736x/9b/b4/4f/9bb44f22e13ccc02f516eb1a44fda16b.jpg",
+    "categoryId": 3,
+    "authorId": 2
+  },
+  {
+    "name": "KUNGSFORS Rail",
+    "description": "A stainless steel rail for hanging kitchen utensils.",
+    "price": 249000,
+    "stock": 38,
+    "imgUrl": "https://i.pinimg.com/736x/d3/6f/f1/d36ff107d0ef0ba9dcf9a6bb71fcc79d.jpg",
+    "categoryId": 5,
+    "authorId": 3
+  },
+  {
+    "name": "ÄPPLARÖ Garden Table",
+    "description": "A durable acacia wood garden table.",
+    "price": 2999000,
+    "stock": 7,
+    "imgUrl": "https://i.pinimg.com/736x/ab/dd/01/abdd01685da2b0e1dbf794e83004cfc5.jpg",
+    "categoryId": 7,
+    "authorId": 2
+  }
+]
